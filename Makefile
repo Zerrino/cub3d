@@ -6,11 +6,11 @@
 #    By: alexafer <alexafer@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/06 09:46:53 by zerrino           #+#    #+#              #
-#    Updated: 2024/05/15 03:19:10 by alexafer         ###   ########.fr        #
+#    Updated: 2024/05/15 03:24:51 by alexafer         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = cub3d
+NAME = cub3D
 
 CC = gcc
 CFLAGS = #-Wall -Wextra -Werror -g -fsanitize=address
